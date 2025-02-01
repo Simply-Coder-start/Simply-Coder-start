@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simply-Coder-start
+- 👋 Hi, I’m Soumyadip Singha
 - 👀 I’m interested in "**Tech and Trend..**"
 - 🌱 I’m currently working on My "**AI engineering Skills..**"
 - 💞️ I’m looking to collaborate with Top AI engineers..
