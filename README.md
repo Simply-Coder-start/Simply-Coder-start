@@ -1,27 +1,188 @@
-💫 About Me:
-👋 Hi, I’m Soumyadip Singha<br>👀 I’m interested in "Tech and Trend.."<br>🌱 I’m currently working on My "AI engineering Skills.."<br>💞️ I’m looking to collaborate with Top AI engineers..<br>😄 Pronouns: He/Him
+<div align="center">
+    <!-- Header: Name -->
+    <h1>👋 Hi, I'm Simply Coder</h1>
+    <hr/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&random=true&width=442&height=57&lines=FOCUSED+ON+AI+%F0%9F%A4%96;PASSIONATE+ABOUT+INNOVATION+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;PRACTICING+MODELS+%F0%9F%93%B2;SOLVING+PROBLEMS%F0%9F%93%9A;GROWING+WITH+TECH%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Soumyadip Singha](https://www.linkedin.com/in/soumyadip-singha/)) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Simply-Coder-start&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Simply-Coder-start&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-Coder-start&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Simply-Coder-start&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<!-- Title/Role Section (Large Blue Text) -->
+<div align="center">
+    <h2 style="color: #2196F3; font-size: 2.5em; font-weight: 700;">
+        Technical Trainer | Systems Programmer 💻
+    </h2>
+    <br>
+    <!-- Optimized Typing SVG Section -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&pause=1000&random=true&width=442&height=57&lines=FOCUSED+ON+AI+%F0%9F%A4%96;PASSIONATE+ABOUT+INNOVATION+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;PRACTICING+MODELS+%F0%9F%93%B2;SOLVING+PROBLEMS%F0%9F%93%9A;GROWING+WITH+TECH%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</div>
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Simply-Coder-start&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ⚙️ Technologies & Tools
+
+### Languages:
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### Front-End Development:
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### Back-End Development:
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### Softwares and Tools:
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+</p>
+
+### Operating Systems:
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+</p>
+
+---
+
+## 💡 My Focus Areas
+
+*   **System Development & Low-Level Code:** Actively building and contributing to projects that demand high-performance and a deep understanding of memory management, primarily in C/C++.
+*   **AI/ML Projects:** Building and deploying practical machine learning solutions, focusing on cutting-edge research and real-world applications.
+*   **Full-Stack Development:** Creating clean, scalable, and efficient web applications using modern full-stack methodologies.
+*   **Algorithmic Problem Solving:** Continuously participating in competitive programming, coding challenges, and hackathons to hone problem-solving skills.
+
+### 🌱 Continuous Growth
+
+*   Advanced System Optimization Techniques (C/C++ performance tuning, compiler flags).
+*   Deep Learning Frameworks (TensorFlow, PyTorch, Keras) for complex model development.
+*   Natural Language Processing (NLP) models and their applications.
+*   Cloud Deployment Strategies (AWS, Azure, GCP) for scalable model serving.
+
+### 🔥 Open Source & Community
+
+*   **Code Contributions:** Actively contributing to projects that follow real-world software engineering standards and benefit the developer community.
+*   **Low-Level Libraries:** Focusing contributions on improving C/C++ libraries, embedded systems tools, and technical documentation.
+
+---
+
+## 🌟 Skills Beyond Code
+
+### 🎯 Leadership & Project Management 
+*   Team Leadership and delegation across technical domain teams.
+*   Strategic Planning, Roadmapping, and Task Assignment.
+*   Collaboration and Project Coordination across cross-functional groups.
+
+### 🎤 Content Creation & Communication 
+*   Video Production & Editing (Shorts, Tutorials, Long-form educational content).
+*   Scriptwriting, Technical Storytelling, and content structuring.
+*   Content Strategy and technical marketing.
+*   UI/UX Design principles applied to development.
+
+### 🤝 Soft Skills
+*   Strategic Planning & Decision-Making.
+*   Critical & Analytical Thinking.
+*   Effective Communication and Presentation.
+*   Time Management & Consistency in project delivery.
+*   Adaptability & Creative Problem Solving.
+*   Mentorship & Guidance for junior developers/learners.
+
+---
+
+<div align="center">
+    <br>
+    <h2>📈 GitHub Stats & Interaction</h2>
+    <hr/>
+    <br>
+<div align="center">
+
+<!-- General Stats and Streak -->
+<a href="https://github.com/Simply-Coder-start">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simply-Coder-start&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/Simply-Coder-start">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Simply-Coder-start&theme=dark"/>
+</a>
+
+<br/>
+
+<!-- Top Languages -->
+<a href="https://github.com/Simply-Coder-start">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-Coder-start&layout=compact&theme=dark&langs_count=6"/>
+</a>
+
+</div>
+
+<br/>
+<h2 align="center">🚀 My Repositories</h2>
+<div align="center">
+
+<!-- Repo 1 -->
+<a href="https://github.com/Simply-Coder-start/Database-Management-System-SQL-">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Simply-Coder-start&repo=Database-Management-System-SQL-&theme=dark" />
+</a>
+
+<!-- Repo 2 -->
+<a href="https://github.com/Simply-Coder-start/Object-Oriented-Programming-in-C-">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Simply-Coder-start&repo=Object-Oriented-Programming-in-C-&theme=dark" />
+</a>
+
+<!-- Repo 3 -->
+<a href="https://github.com/Simply-Coder-start/Simply-Coder-start">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Simply-Coder-start&repo=Simply-Coder-start&theme=dark" />
+</a>
+
+<!-- Repo 4 -->
+<!-- Note: I corrected the name to "Python-Programming-Foundation" as GitHub repos cannot start with a dash -->
+<a href="https://github.com/Simply-Coder-start/Python-Programming-Foundation">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Simply-Coder-start&repo=Python-Programming-Foundation&theme=dark" />
+</a>
+
+<!-- Repo 5 -->
+<a href="https://github.com/Simply-Coder-start/C-programming_projects">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Simply-Coder-start&repo=C-programming_projects&theme=dark" />
+</a>
+
+</div><div align="center">
 
 
+  <!-- The Activity Graph (From your image) -->
+  [![Simply-Coder-start's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Simply-Coder-start&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <br/>
+
+  <!-- GitHub Stats and Streak -->
+  <p align="center">
+    <a href="https://github.com/Simply-Coder-start">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simply-Coder-start&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Simply-Coder-start">
+      <img src="https://github-readme-stats.vercel.app/api?username=Simply-Coder-start&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Simply-Coder-start">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-Coder-start&layout=compact&theme=react-dark&hide_border=true" alt="Top Langs" />
+    </a>
+  </p>
+
+</div>
