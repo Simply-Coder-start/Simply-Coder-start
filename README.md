@@ -1,17 +1,17 @@
 <div align="center">
-    <!-- Header: Name -->
-    <h1>👋 Hi, I'm Simply Coder</h1>
-    <hr/>
-</div>
 
-<!-- Title/Role Section (Large Blue Text) -->
-<div align="center">
-    <h2 style="color: #2196F3; font-size: 2.5em; font-weight: 700;">
-        Technical Trainer | Systems Programmer 💻
-    </h2>
-    <br>
-    <!-- Optimized Typing SVG Section -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&pause=1000&random=true&width=442&height=57&lines=FOCUSED+ON+AI+%F0%9F%A4%96;PASSIONATE+ABOUT+INNOVATION+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;PRACTICING+MODELS+%F0%9F%93%B2;SOLVING+PROBLEMS%F0%9F%93%9A;GROWING+WITH+TECH%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <h2 style="color: #2196F3; font-size: 2.5em; font-weight: 700;">
+      Technical Trainer | Systems Programmer 💻
+  </h2>
+
+  <br>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&pause=1000&center=true&vCenter=true&width=600&height=60&lines=FOCUSED+ON+AI+🤖;PASSIONATE+ABOUT+INNOVATION+🧑‍💻;PRACTICING+MODELS+📲;SOLVING+PROBLEMS+📚;GROWING+WITH+TECH+⚙️" 
+    alt="Typing SVG"
+    style="display: block; margin: 0 auto;"
+  />
+
 </div>
 <br>
 
