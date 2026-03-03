@@ -1,8 +1,10 @@
 <div align="center">
 
-  <h2 style="color: #2196F3; font-size: 2.5em; font-weight: 700;">
-      Technical Trainer | Systems Programmer 💻
-  </h2>
+ <h2>
+  🤖 Machine Learning Engineer  
+  <br/>
+  <sub>Building Intelligent Systems</sub>
+</h2>
 
   <br>
 
