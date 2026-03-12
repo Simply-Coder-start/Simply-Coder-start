@@ -118,6 +118,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
+
 <!-- General Stats and Streak -->
 <a href="https://github.com/Simply-Coder-start">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simply-Coder-start&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
