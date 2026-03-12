@@ -109,20 +109,14 @@
 
 ---
 
-<div align="center">
-    <br>
-    <h2>📈 GitHub Stats & Interaction</h2>
-    <hr/>
-    <br>
-<div align="center">
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaweshdas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- General Stats and Streak -->
 <a href="https://github.com/Simply-Coder-start">
