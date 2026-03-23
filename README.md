@@ -206,3 +206,6 @@
   </p>
 
 </div>
+<p align="center">
+  <img src="assets/main.gif" width="180px" />
+</p>
