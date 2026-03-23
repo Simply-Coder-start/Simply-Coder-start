@@ -2,10 +2,14 @@
   <img src="assets/pp1.png" width="100%" style="border-radius:12px;" />
 </p>
 
+---
+
 <p align="center">
     <p align="center">
   <img src="assets/profile2-ezgif.com-optimize.gif" width="100%" />
 </p>
+
+---
     
 <div align="center">
 
