@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="assets/profile2.gif" width="100%" /></p>
+    <p align="center">
+  <img src="assets/profile2-ezgif.com-optimize.gif" width="100%" />
+</p>
     
 <div align="center">
 
