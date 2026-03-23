@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile.gif" width="90%" style="border-radius:10px;" />
+</p>
+---
 <div align="center">
 
  <h2>
