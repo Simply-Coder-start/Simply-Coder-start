@@ -50,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
-
+<img src="https://octodex.github.com/images/skatetocat.png" align="right" width="350px" alt="Skatetocat"/>
 ### Back-End Development:
 
 <p align="left">
@@ -77,7 +77,6 @@
 </p>
 
 ---
-<img src="https://octodex.github.com/images/skatetocat.png" align="right" width="350px" alt="Skatetocat"/>
 ## 💡 My Focus Areas
 
 *   **System Development & Low-Level Code:** Actively building and contributing to projects that demand high-performance and a deep understanding of memory management, primarily in C/C++.
