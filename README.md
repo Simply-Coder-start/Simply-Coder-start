@@ -75,11 +75,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 </p>
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4629.svg">
 </p>
----
 ## 💡 My Focus Areas
 
 *   **System Development & Low-Level Code:** Actively building and contributing to projects that demand high-performance and a deep understanding of memory management, primarily in C/C++.
