@@ -77,21 +77,7 @@
 </p>
 
 ---
-<table>
-<tr>
-<td valign="top">
-
-## 🐙 I'M YOUR NAME!
-
-- ✨ Focused on AI and Building Intelligent Systems
-- 🧠 Passionate about Deep Learning, NLP, and real-world ML applications
-
-</td>
-<td width="250" align="center" valign="middle">
-  <img src="https://octodex.github.com/images/skatetocat.png" width="220px" alt="Skatetocat"/>
-</td>
-</tr>
-</table>
+<img src="https://octodex.github.com/images/skatetocat.png" align="right" width="350px" alt="Skatetocat"/>
 ## 💡 My Focus Areas
 
 *   **System Development & Low-Level Code:** Actively building and contributing to projects that demand high-performance and a deep understanding of memory management, primarily in C/C++.
