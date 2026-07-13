@@ -35,7 +35,7 @@
 ## ⚙️ Technologies & Tools
 
 ### Languages:
-
+<img src="https://octodex.github.com/images/skatetocat.png" align="right" width="350px" alt="Skatetocat"/>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -50,7 +50,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
-<img src="https://octodex.github.com/images/skatetocat.png" align="right" width="350px" alt="Skatetocat"/>
 ### Back-End Development:
 
 <p align="left">
