@@ -77,7 +77,20 @@
 </p>
 
 ---
+<img 
+    src="https://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&pause=1000&center=true&vCenter=true&width=600&height=60&lines=FOCUSED+ON+AI+🤖;PASSIONATE+ABOUT+INNOVATION+🧑‍💻;PRACTICING+MODELS+📲;SOLVING+PROBLEMS+📚;GROWING+WITH+TECH+⚙️" 
+    alt="Typing SVG"
+    style="display: block; margin: 0 auto;"
+  />
 
+</div>
+<br>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/skatetocat.png" width="200px" alt="Skatetocat" />
+</p>
+
+---
 ## 💡 My Focus Areas
 
 *   **System Development & Low-Level Code:** Actively building and contributing to projects that demand high-performance and a deep understanding of memory management, primarily in C/C++.
